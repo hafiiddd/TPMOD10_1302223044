@@ -30,3 +30,4 @@ C:\Kuliah\kpl\tpmod10\tpmod10\obj\Debug\net8.0\refint\tpmod10.dll
 C:\Kuliah\kpl\tpmod10\tpmod10\obj\Debug\net8.0\tpmod10.pdb
 C:\Kuliah\kpl\tpmod10\tpmod10\obj\Debug\net8.0\tpmod10.genruntimeconfig.cache
 C:\Kuliah\kpl\tpmod10\tpmod10\obj\Debug\net8.0\ref\tpmod10.dll
+C:\Kuliah\kpl\tpmod10\tpmod10\obj\Debug\net8.0\tpmod10.sourcelink.json

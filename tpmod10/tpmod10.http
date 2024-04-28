@@ -1,6 +1,6 @@
 @tpmod10_HostAddress = http://localhost:5081
 
-GET {{tpmod10_HostAddress}}/weatherforecast/
+GET {{tpmod10_HostAddress}}/mahasiswa/
 Accept: application/json
 
 ###

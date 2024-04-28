@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Kuliah\\kpl\\tpmod10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\tpmod10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\tpmod10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|c:\\kuliah\\kpl\\tpmod10\\tpmod10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6E41144-AE21-4508-A221-E566C036A74B}|tpmod10\\tpmod10.csproj|solutionrelative:tpmod10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,46 +34,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "tpmod10\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "tpmod10\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAqAAAA",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmod10\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmod10\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:05:35.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "tpmod10\\WeatherForecast.cs",
-              "ToolTip": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\WeatherForecast.cs",
-              "RelativeToolTip": "tpmod10\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmod10\\Mahasiswa.cs",
+              "ToolTip": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmod10\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:00:16.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "tpmod10.http",
               "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\tpmod10.http",
               "RelativeDocumentMoniker": "tpmod10\\tpmod10.http",
               "ToolTip": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\tpmod10.http",
               "RelativeToolTip": "tpmod10\\tpmod10.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-04-28T09:00:04.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmod10\\tpmod10\\Program.cs",
               "RelativeDocumentMoniker": "tpmod10\\Program.cs",
